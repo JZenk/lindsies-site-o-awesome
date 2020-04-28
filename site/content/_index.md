@@ -8,7 +8,7 @@ blurb:
 intro:
   heading: Where do I go?
   text: Sephora!
-values:
+about:
   heading: About me
   text: I'm awesome, read more about how I am awesome.
 ---
