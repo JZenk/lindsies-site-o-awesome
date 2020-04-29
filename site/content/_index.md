@@ -1,6 +1,6 @@
 ---
 title: Lindsie Goes
-subtitle: Makeup, travel, and fun.
+subtitle: Makeup, travel, and fun
 image: img/diego-jimenez-a-nvhpka9rk-unsplash.jpg
 blurb:
   heading: Why does Lindsie go?
