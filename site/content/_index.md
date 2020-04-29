@@ -1,7 +1,7 @@
 ---
 title: Lindsie Goes
 subtitle: Makeup, travel, and fun
-image: img/diego-jimenez-a-nvhpka9rk-unsplash.jpg
+image: img/10575166_10152671108018120_825485839357044269_o.jpg
 blurb:
   heading: Why does Lindsie go?
   text: Because travel is life and everyone should be able to travel.
